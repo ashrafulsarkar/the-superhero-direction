@@ -1,0 +1,22 @@
+.single-item {
+    padding: 20px;
+    box-shadow: 0 0 13px 10px #97979714;
+    border-radius: 8px;
+}
+.add-to-card button {
+    background: #112A46;
+    border: 0;
+    color: #fff;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+}
+.item-info {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.item-info h5,
+.item-info p {
+    margin: 0;
+}

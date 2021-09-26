@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+.header-part {
+    margin: 20px 0;
+    padding: 30px;
+    box-shadow: 0 0 13px 10px #97979714;
+    border-radius: 8px;
+}
+.header-part h3 {
+    font-size: 40px;
+    margin: 0;
+}
+.header-part p {
+    font-size: 20px;
+    margin: 0;
+}
+.header-part h4 {
+    font-size: 30px;
+    margin: 0;
+    padding-top: 5px;
+}
