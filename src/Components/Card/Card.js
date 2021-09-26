@@ -1,5 +1,4 @@
 import React from 'react';
-// import { useState } from 'react/cjs/react.development';
 import "./Card.css";
 
 const Card = (props) => {

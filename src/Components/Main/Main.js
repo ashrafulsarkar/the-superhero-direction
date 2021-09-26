@@ -14,7 +14,6 @@ const Main = () => {
     },[])
 
     const handerAddtoCard = person =>{
-        // console.log(person);
         const newCard = [...card, person];
         setCard(newCard);
     }

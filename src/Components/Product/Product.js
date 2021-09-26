@@ -16,7 +16,7 @@ const Product = (props) => {
                     <p>Salary: ${salary}</p>
                 </div>
                 <div className="add-to-card">
-                    <button onClick={()=>props.handerAddtoCard(props.person)}><i class="fas fa-shopping-cart"></i> Add to card</button>
+                    <button onClick={()=>props.handerAddtoCard(props.person)}><i className="fas fa-shopping-cart"></i> Add to card</button>
                 </div>
             </div>
         </div>
